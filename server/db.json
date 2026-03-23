@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "name": "Coffee Mug new",
+      "price": "400",
+      "desc": "Ceramic, 350ml",
+      "id": "3"
+    },
+    {
+      "name": "app",
+      "price": "200",
+      "desc": "jjh",
+      "id": "07eb"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
